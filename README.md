@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Sebastian 👋</h1>
 
 <p align="center">
-Aspiring Software Engineer • Always Learning
+Software Engineer • Always Learning
 </p>
 
 ---
